@@ -1,0 +1,62 @@
+body{
+    background-color: #c7c7c7;
+    font-family: 'Trebuchet MS', arial, 'sans-serif';
+    width: 900px;
+    margin: auto;
+  }
+ 
+  
+  h1{
+    text-align: center;
+    font-size: 3.2em;
+    
+  }
+  a{
+    color: red;
+  }
+  h2{
+    color: red;
+  }
+  .fond_noir{
+    background-color: #141414;
+    color: white;
+  }
+  
+  .fond_blanc{
+    background-color: #dcdcdc;
+  }
+  td,th{
+    padding: 10px;
+  }
+  tbody tr:hover{
+    background-color: #989898;
+    cursor: pointer;
+  }
+  
+
+  figure{
+    border: 1px solid red;
+    border-radius: 10px;
+    background-color: #151515;
+    padding: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  img{
+    width: 100%;
+    
+  }
+  figcaption{
+    color: white;
+    text-align: center;
+  }
+  table{
+    border-collapse: collapse;
+  }
+  .p{
+    border: 2px dashed #6200b0;
+    color: #6200b0;
+    margin: 30px;
+    padding: 20px;
+    background-color: #b6b6b6;
+  }
